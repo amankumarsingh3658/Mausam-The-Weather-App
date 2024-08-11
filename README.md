@@ -1,16 +1,34 @@
-# mausam
+Weather App
 
-A new Flutter project.
 
-## Getting Started
+Overview
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+This Weather App is a sleek, modern mobile application built using Flutter, a powerful UI toolkit from Google, and the OpenWeather API to provide real-time weather information. The app allows users to check the current weather conditions, forecasts, and other meteorological data for any city around the world.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+
+
+Real-time Weather Data: Get up-to-date information on temperature, humidity, wind speed, and more.
+
+
+Search Functionality: Easily search for weather information in any city worldwide.
+
+
+Error Handling: User-friendly error messages and offline mode for when the API is unreachable.
+
+
+Technologies Used
+
+
+Flutter: The core framework for building the app's UI.
+
+
+Dart: The programming language used to write Flutter applications.
+
+
+OpenWeather API: Provides real-time weather data and forecasts.
+
+
+HTTP: For making network requests to the OpenWeather API.
